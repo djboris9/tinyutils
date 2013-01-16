@@ -9,5 +9,5 @@ To renew this autoconf and automake system, do the following:
 > automake --add-missing
 > autoconf
 > ./configure
-> # Do tests
+> Do tests
 > make clean
